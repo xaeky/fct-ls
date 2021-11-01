@@ -1,0 +1,7 @@
+.nuxt-content ul {
+  @apply flex flex-col gap-y-2 list-disc pl-4;
+}
+
+#fct__loading_right {
+  max-width: 500px;
+}
