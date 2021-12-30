@@ -23,6 +23,7 @@ export default {
     '~/assets/global.css'
   ],
   plugins: [
+    '~/plugins/yt.client'
   ],
   components: true,
   buildModules: [
