@@ -91,15 +91,13 @@ export default {
     },
     onPlayerReady (e) {
       this.player = e.target
-      this.player.setVolume(25)
-      console.log(this.player)
-      console.log('PLAYING')
+      this.player.setVolume(20)
     },
     onPaused () {
-      console.log('PAUSED')
+      console.log('- PAUSED')
     },
     onError () {
-      console.log('ERROR!')
+      console.log('- ERROR!')
     }
   }
 }
