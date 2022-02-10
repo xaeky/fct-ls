@@ -6,8 +6,9 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ['Inter', '"Comic Sans MS"'],
-      title: ['Oswald', 'Inter', '"Comic Sans MS"']
+      sans: ['Nunito', '"Comic Sans MS"'],
+      title: ['Oswald', 'Inter', '"Comic Sans MS"'],
+      cool: 'Coolvetica Condensed'
     }
   }
 }
