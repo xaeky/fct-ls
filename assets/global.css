@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Coolvetica Condensed';
+  src: url('~/assets/fonts/Coolvetica_Condensed.otf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Coolvetica Crammed';
+  src: url('~/assets/fonts/Coolvetica_Crammed.otf');
+  font-style: normal;
+}
+
 .nuxt-content ul {
   @apply flex flex-col gap-y-2 list-disc pl-4;
 }
