@@ -33,17 +33,18 @@
     </div>
     <div class="fixed w-full h-full inset-0 z-50 flex justify-center items-center">
       <img id="fct__loading_left" :src="gamemodeData.logo" alt="Gamemode Logo" class="max-h-96">
-      <div id="fct__loading_right" class="bg-black bg-opacity-50 border-black border-opacity-75 py-8 px-12 text-white rounded-2xl backdrop-filter backdrop-blur-lg">
-        <h2 class="text-4xl italic font-title mb-4 text-center">
-          {{ gamemodeData.name }}
-        </h2>
+      <div id="fct__loading_right" class="bg-black bg-opacity-75 py-6 px-6 text-white rounded-xl backdrop-filter backdrop-blur-lg">
         <div v-if="gamemodeData.rules">
-          <h3 class="text-2xl font-title mb-3 text-left border-b border-white border-opacity-10 pb-3">
-            Reglas
+          <h3 class="text-4xl font-cool mb-4 text-left border-b border-white border-opacity-10">
+            Reglas del {{ gamemodeData.name }}
           </h3>
           <div>
-            <ul v-if="gamemodeData.rules.length" class="list-disc">
-              <li v-for="(rule, ruleIdx) in gamemodeData.rules" :key="ruleIdx">
+            <ul v-if="gamemodeData.rules.length" id="fct__loading_rules_list" class="text-xl space-y-2">
+              <li
+                v-for="(rule, ruleIdx) in gamemodeData.rules"
+                :key="ruleIdx"
+                class="rounded pr-6 pl-3 py-1 relative"
+              >
                 {{ rule }}
               </li>
             </ul>
@@ -92,13 +93,17 @@ export default {
     onPlayerReady (e) {
       this.player = e.target
       this.player.setVolume(20)
-    },
-    onPaused () {
-      console.log('- PAUSED')
-    },
-    onError () {
-      console.log('- ERROR!')
     }
   }
 }
 </script>
+
+<style scoped>
+#fct__loading_rules_list li::before {
+  content: '•';
+  position: absolute;
+  left: 0px;
+  font-size: 9pt;
+  opacity: .3;
+}
+</style>
