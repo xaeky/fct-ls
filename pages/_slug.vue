@@ -20,8 +20,6 @@
         player-height="0"
         :player-vars="{ autoplay: 1 }"
         @ready="onPlayerReady"
-        @paused="onPaused"
-        @error="onError"
       />
     </client-only>
     <div class="w-full h-full">
