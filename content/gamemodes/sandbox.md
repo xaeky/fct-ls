@@ -6,22 +6,16 @@ rules:
   - Mantener el respeto entre los demás.
   - No abusar de dupes, E2, cheats y/o exploits.
   - No volver a entrar inmediatamente luego de ser kickeado.
-bg: https://steamuserimages-a.akamaihd.net/ugc/1713038636055854151/BB8A61DC3AA9061C7E036950CF82A21A11F58B60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+bg: https://youtu.be/QYOSPZVfuLQ
 logo: https://i.imgur.com/18eWLKH.png
 playlist:
-  - n6TYJmQtMDY
-  - FHWgld3wA38
-  - fZPI-3tLrEI
-  - j_TeIOlq5ME
-  - scxXgGDJ8BY
-  - CAmHrCvZ8tA
-  - hvkajRy0fww
-  - h9FZSHR8868
-  - SJFk4GtyVgA
-  - Vri34RFC0Lc
-  - 4eJKO-AnciY
-  - EyYRuRfo1RY
-  - 4n4QGtqaF0E
-  - dokudtasURo
-  - vqAYNyKQKx4
+  - x0Kr40mAK58
+  - 2jI-RLPVfD8
+  - 45xL2ftmd2Q
+  - i4_09eUfX5M
+  - VYS8Zk_flDs
+  - vHshuY-nGgs
+  - VixOhHQrVhw
+  - NYqol37DMhw
+  - 7u0e8-5SIIo
 ---
