@@ -6,7 +6,7 @@ rules:
   - Mantener el respeto entre los demás.
   - No abusar de dupes, E2, cheats y/o exploits.
   - No volver a entrar inmediatamente luego de ser kickeado.
-bg: https://youtu.be/QYOSPZVfuLQ
+bg: https://steamuserimages-a.akamaihd.net/ugc/1713038636055854151/BB8A61DC3AA9061C7E036950CF82A21A11F58B60/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 logo: https://i.imgur.com/18eWLKH.png
 playlist:
   - x0Kr40mAK58
