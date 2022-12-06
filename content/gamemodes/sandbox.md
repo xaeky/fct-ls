@@ -18,4 +18,6 @@ playlist:
   - VixOhHQrVhw
   - NYqol37DMhw
   - 7u0e8-5SIIo
+  - c99JmACgfnI
+  - 9fp6_UJlbDE
 ---
