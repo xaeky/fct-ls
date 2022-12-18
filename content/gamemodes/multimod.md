@@ -3,6 +3,7 @@ name: Multimod
 rules:
   - Jugar
 bg: https://steamuserimages-a.akamaihd.net/ugc/1014940663404625964/419BD1825220CDF244B46B32F44B01733545ABA6/
+logo: https://cdn.freebiesupply.com/logos/large/2x/garrys-mod-logo-png-transparent.png
 playlist:
   - x0Kr40mAK58
   - 2jI-RLPVfD8
