@@ -5,8 +5,8 @@ rules:
   - Mantener el respeto entre los demás.
   - No volver a entrar inmediatamente luego de ser kickeado.
   - Una vez que moris, olvidas todo de tu anterior vida.
-bg: https://wallpapers.gry-online.pl/pliki/71458/1920x1080.jpg
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Socialist_swastika.svg/2048px-National_Socialist_swastika.svg.png
+bg: https://i.imgur.com/7DdLxn0.jpg
+logo: https://github.com/Saektide/fct-ls/blob/dom/static/resources/c9.png
 playlist:
   - KjWd5WetF8c
 ---
