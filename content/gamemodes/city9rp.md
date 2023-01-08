@@ -6,7 +6,7 @@ rules:
   - No volver a entrar inmediatamente luego de ser kickeado.
   - Una vez que moris, olvidas todo de tu anterior vida.
 bg: https://i.imgur.com/7DdLxn0.jpg
-logo: https://raw.githubusercontent.com/Saektide/fct-ls/dom/static/resources/c9.png?token=GHSAT0AAAAAAB5GFEUJCOCRTFD7GE7GAXIYY52BO6A
+logo: https://i.imgur.com/GXR5h5Z.png
 playlist:
   - KjWd5WetF8c
 ---
