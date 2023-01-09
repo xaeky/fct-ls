@@ -8,5 +8,4 @@ rules:
 bg: https://i.imgur.com/7DdLxn0.jpg
 logo: https://i.imgur.com/GXR5h5Z.png
 playlist:
-  - KjWd5WetF8c
 ---
