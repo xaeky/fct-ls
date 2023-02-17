@@ -9,15 +9,12 @@ rules:
 bg: https://i.imgur.com/T9he9RF.png
 logo: https://i.imgur.com/sXtPifW.png
 playlist:
-  - x0Kr40mAK58
-  - 2jI-RLPVfD8
-  - 45xL2ftmd2Q
-  - i4_09eUfX5M
-  - VYS8Zk_flDs
-  - vHshuY-nGgs
-  - VixOhHQrVhw
-  - NYqol37DMhw
-  - 7u0e8-5SIIo
-  - c99JmACgfnI
-  - 9fp6_UJlbDE
+  - hP5tsyIMLkY
+  - WgibpyTp6dY
+  - F1L4Pjqt2ys
+  - U_n9G4E0Z2I
+  - miFZNUgV2rw
+  - fY-d_x5fxLs
+  - nRkVc0gbmhc
+  - TBTN0_bpH2Y
 ---
