@@ -7,7 +7,7 @@ rules:
   - No abusar de dupes, E2, cheats y/o exploits.
   - No volver a entrar inmediatamente luego de ser kickeado.
 bg: https://steamuserimages-a.akamaihd.net/ugc/1924754324485211210/5BC187F31C0382A54165904C6A0AE570AFAF3FA2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
-logo: https://i.imgur.com/sXtPifW.png
+logo: https://i.imgur.com/18eWLKH.png
 playlist:
   - N66hK6ma55k
   - T7XEeFLUAu0
