@@ -9,9 +9,4 @@ rules:
 bg: https://i.imgur.com/vCkMrzK.png
 logo: https://i.imgur.com/7d1zFqL.png
 playlist:
-  - 5LpYi7NVi3Q
-  - RdWWCsr_gsM
-  - pE2Nj1PN9D0
-  - GFYZTEVpCTM
-  - QaN2McGknCg
 ---
