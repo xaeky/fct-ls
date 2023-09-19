@@ -8,3 +8,6 @@ rules:
   - No volver a entrar inmediatamente luego de ser kickeado.
 bg: https://i.imgur.com/vCkMrzK.png
 logo: https://i.imgur.com/7d1zFqL.png
+playlist:
+-
+-
