@@ -6,8 +6,11 @@ rules:
   - Mantener el respeto entre los demás.
   - No abusar de dupes, E2, cheats y/o exploits.
   - No volver a entrar inmediatamente luego de ser kickeado.
-bg: https://i.imgur.com/vCkMrzK.png
-logo: https://i.imgur.com/7d1zFqL.png
+  - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
+  - Cualquier duda o queja hable directamente con un miembro del Staff.
+  - El intento de crash o crash sera tomado como PERMABAN. 
+bg: https://i.imgur.com/pSlcXfm.jpg
+logo: https://i.imgur.com/LrmAdjj.png
 playlist:
 -
 -
