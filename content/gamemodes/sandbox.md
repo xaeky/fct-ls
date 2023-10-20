@@ -1,5 +1,5 @@
 ---
-name: Sandbox
+name: Palomar
 rules:
   - No hacer RDM (Random Death Match), ni matar con noclip.
   - No matar a alguien que esté construyendo o en PAC3.
