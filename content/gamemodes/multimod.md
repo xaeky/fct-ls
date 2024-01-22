@@ -1,9 +1,16 @@
 ---
-name: Multimod
+name: FCT
 rules:
-  - Jugar
-bg: https://steamuserimages-a.akamaihd.net/ugc/2097048080766718713/5EF622C6A4055DD24B73BC2A876FB5B630A167FF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
-logo: 
+  - No hacer RDM (Random Death Match), ni matar con noclip.
+  - No matar a alguien que esté construyendo o en PAC3.
+  - Mantener el respeto entre los demás.
+  - No abusar de dupes, E2, cheats y/o exploits.
+  - No volver a entrar inmediatamente luego de ser kickeado.
+  - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
+  - Cualquier duda o queja hable directamente con un miembro del Staff.
+  - El intento de crash o crash sera tomado como PERMABAN.
+bg: https://steamuserimages-a.akamaihd.net/ugc/101727235332410200/6CDB0F51B28B92A75DDD1E94361A3F9A6E930EB1/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true
+logo: https://i.imgur.com/v0Wzs82.png
 playlist:
   - x0Kr40mAK58
   - 2jI-RLPVfD8
