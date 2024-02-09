@@ -9,7 +9,7 @@ rules:
   - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
   - Cualquier duda o queja hable directamente con un miembro del Staff.
   - El intento de crash o crash sera tomado como PERMABAN.
-bg: https://youtu.be/ff2CuEuFXL8?si=OSsohrpEoVTIW9nk
+bg: https://i.imgur.com/ABuLgCp.jpeg
 logo: https://i.imgur.com/KkZsKC8.png
 playlist:
   - x0Kr40mAK58
