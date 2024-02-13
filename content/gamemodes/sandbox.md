@@ -12,5 +12,7 @@ rules:
 bg: https://i.imgur.com/HBVsbqX.png
 logo: https://i.imgur.com/kspvlM9.png
 playlist:
--
--
+- 13QR2D1Mxmo
+- ikIYHQBWilg
+- xjCGYzygBoU
+- 7O0EClVGb7k
