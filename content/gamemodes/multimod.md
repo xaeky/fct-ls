@@ -18,10 +18,9 @@ playlist:
   - i4_09eUfX5M
   - VYS8Zk_flDs
   - vHshuY-nGgs
-  - VixOhHQrVhw
   - NYqol37DMhw
   - 7u0e8-5SIIo
-  - c99JmACgfnI
+  - Nz580913HiY
   - 9fp6_UJlbDE
 ---
 
