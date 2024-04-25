@@ -9,7 +9,7 @@ rules:
   - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
   - Cualquier duda o queja hable directamente con un miembro del Staff.
   - El intento de crash o crash sera tomado como PERMABAN.
-bg: https://steamuserimages-a.akamaihd.net/ugc/2476492914530794631/8BA99FF4E781892596FE39D60FD6E3E03793AF9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+bg: https://steamuserimages-a.akamaihd.net/ugc/2476492914530810019/687F5BC0243D0DB262DD963915DD68857AC3CCB9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 logo: https://i.imgur.com/KkZsKC8.png
 playlist:
   - Ob-uhm-ZjLU
