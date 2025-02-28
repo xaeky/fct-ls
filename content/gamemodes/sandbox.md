@@ -9,10 +9,10 @@ rules:
   - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
   - Cualquier duda o queja hable directamente con un miembro del Staff.
   - El intento de crash o crashear sera tomado como PERMABAN. 
-bg: https://i.imgur.com/HBVsbqX.png
+bg: https://images.steamusercontent.com/ugc/52452069757948283/BF222EE8D3BAD17328E6CA9A27CCC0618EA7E004/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 logo: https://i.imgur.com/18eWLKH.png
 playlist:
-- 13QR2D1Mxmo
-- ikIYHQBWilg
-- xjCGYzygBoU
-- 7O0EClVGb7k
+- eeF66x4pCmA
+- WgibpyTp6dY
+- 4n4QGtqaF0E
+- QmoM8XzAeRc
