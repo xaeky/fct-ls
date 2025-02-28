@@ -10,7 +10,7 @@ rules:
   - Cualquier duda o queja hable directamente con un miembro del Staff.
   - El intento de crash o crashear sera tomado como PERMABAN. 
 bg: https://i.imgur.com/HBVsbqX.png
-logo: https://imgur.com/18eWLKH
+logo: https://i.imgur.com/18eWLKH.png
 playlist:
 - 13QR2D1Mxmo
 - ikIYHQBWilg
