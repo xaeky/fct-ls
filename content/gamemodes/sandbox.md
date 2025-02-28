@@ -1,5 +1,5 @@
 ---
-name: Palomar
+name: FCT
 rules:
   - No hacer RDM (Random Death Match), ni matar con noclip.
   - No matar a alguien que esté construyendo o en PAC3.
@@ -8,9 +8,9 @@ rules:
   - No volver a entrar inmediatamente luego de ser kickeado.
   - Se prohíbe la apología al Doxxing y DDoS. (PERMABAN).
   - Cualquier duda o queja hable directamente con un miembro del Staff.
-  - El intento de crash o crash sera tomado como PERMABAN. 
+  - El intento de crash o crashear sera tomado como PERMABAN. 
 bg: https://i.imgur.com/HBVsbqX.png
-logo: https://i.imgur.com/kspvlM9.png
+logo: https://imgur.com/18eWLKH
 playlist:
 - 13QR2D1Mxmo
 - ikIYHQBWilg
